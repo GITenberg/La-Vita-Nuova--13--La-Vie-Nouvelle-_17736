@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17736#La-Vita-Nuova--13--La-Vie-Nouvelle-
 gutenberg_bookshelf:
 - FR Poésie
 - FR Littérature
